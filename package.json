@@ -1,0 +1,12 @@
+{
+  "name": "sudoku-chart-generator",
+  "version": "0.0.1",
+  "description": "sudoku chart generator",
+  "main": "index.js",
+  "author": "Shunji Baba",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": "0.10.x"
+  }
+}
